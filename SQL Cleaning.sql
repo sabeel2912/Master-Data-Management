@@ -1,0 +1,1 @@
+SELECT * FROM sabeel2912.comp;
