@@ -1,0 +1,1 @@
+	Master Data Management (MDM) - Developed a repository of master data from various customers and suppliers of the organization after data cleaning, deduplication and NLP algorithms using tools/technology like Talend, SQL, Python and created the data quality reports in Power BI, Data Cleaning (ETL).
